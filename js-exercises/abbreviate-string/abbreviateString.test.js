@@ -1,3 +1,4 @@
+/* eslint-disable import/extensions */
 import { abbreviateString } from './abbreviateString.js';
 
 describe('abbreviateString', () => {
